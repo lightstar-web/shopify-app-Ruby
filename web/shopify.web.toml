@@ -1,0 +1,5 @@
+roles = ["backend"]
+
+[commands]
+dev = "bin/rails server"
+build = "rake build:all"
